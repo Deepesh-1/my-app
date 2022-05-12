@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  background-color: #000000;
+  font-family: "Poppins", sans-serif;
+}
+
+.App {
+  text-align: center;
+  width: 550px;
+  background-color: #ffffff;
+  margin: auto;
+  max-width: 100%;
+}
+
+.App-logo {
+  width: 82.02px;
+  padding: 22px 22px 30px 0px;
+}
+
+.Nav {
+  height: 70px;
+  background: #ffffff;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.Hero {
+  padding: 22px;
+}
+
+.Hero-photogrid {
+  width: 100%;
+  max-width: 395.91px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+  color: #000000;
+  text-align: left;
+}
+p {
+  color: #000000;
+  text-align: left;
+}
+.Card {
+  display: flex;
+}
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
