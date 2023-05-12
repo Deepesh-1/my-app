@@ -1,1 +1,12 @@
 
+---
+organization: CDO-KP-ORG
+repository_name: rxc-kporg-ui
+repo_url: https://github.kp.org/CDO-KP-ORG/rxc-kporg-ui.git
+teams: rx-center
+webhooks: https://jenkins-fotf01.kp.org/github-webhook/
+project_name: rxc-kporg-ui
+owner_email: Sudheer-Varma.Rudraraju@kp.org
+tech_sme_email: ganesh.x.rajendran@kp.org
+atlas_id: TBD
+account_exec: TBD
